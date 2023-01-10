@@ -31,6 +31,7 @@ namespace CleanCodingInCS.Solution {
         void TurnLeft();
         void TurnRight();
         void Honk();
+        void Reverse();
         void SetEngine(IEngine engine);
     }
 
@@ -46,6 +47,10 @@ namespace CleanCodingInCS.Solution {
 
     interface IHorn {
         void Honk();
+    }
+
+    interface ITransmission {
+        void Reverse();
     }
 
     class DieselEngine : IEngine {
@@ -104,10 +109,17 @@ namespace CleanCodingInCS.Solution {
         }
     }
 
+    class AutoTransmission: ITransmission {
+        public void Reverse() {
+            Console.WriteLine("Auto transmission set to reverse");
+        }
+    }
+
     class Truck : ITruck {
         public IEngine Engine { get; set; }
         public ISteering Steering { get; set; }
         public IHorn Horn { get; set; }
+        public ITransmission Transmission { get; set; }
 
         public Truck(IEngine engine, ISteering steering, IHorn horn) {
             Engine = engine;
@@ -135,6 +147,10 @@ namespace CleanCodingInCS.Solution {
 
         public void Honk() {
             Horn.Honk();
+        }
+
+        public void Reverse() {
+            Transmission.Reverse();
         }
 
         public void SetEngine(IEngine engine) {
