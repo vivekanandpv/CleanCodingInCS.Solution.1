@@ -1,0 +1,12 @@
+/Users/vivekanandpv/RiderProjects/CleanCodingInCS.Solution.1/CleanCodingInCS.Solution.1/bin/Debug/netcoreapp3.1/CleanCodingInCS.Solution.1.deps.json
+/Users/vivekanandpv/RiderProjects/CleanCodingInCS.Solution.1/CleanCodingInCS.Solution.1/bin/Debug/netcoreapp3.1/CleanCodingInCS.Solution.1.runtimeconfig.json
+/Users/vivekanandpv/RiderProjects/CleanCodingInCS.Solution.1/CleanCodingInCS.Solution.1/bin/Debug/netcoreapp3.1/CleanCodingInCS.Solution.1.runtimeconfig.dev.json
+/Users/vivekanandpv/RiderProjects/CleanCodingInCS.Solution.1/CleanCodingInCS.Solution.1/bin/Debug/netcoreapp3.1/CleanCodingInCS.Solution.1.dll
+/Users/vivekanandpv/RiderProjects/CleanCodingInCS.Solution.1/CleanCodingInCS.Solution.1/bin/Debug/netcoreapp3.1/CleanCodingInCS.Solution.1.pdb
+/Users/vivekanandpv/RiderProjects/CleanCodingInCS.Solution.1/CleanCodingInCS.Solution.1/obj/Debug/netcoreapp3.1/CleanCodingInCS.Solution.1.csprojAssemblyReference.cache
+/Users/vivekanandpv/RiderProjects/CleanCodingInCS.Solution.1/CleanCodingInCS.Solution.1/obj/Debug/netcoreapp3.1/CleanCodingInCS.Solution.1.AssemblyInfoInputs.cache
+/Users/vivekanandpv/RiderProjects/CleanCodingInCS.Solution.1/CleanCodingInCS.Solution.1/obj/Debug/netcoreapp3.1/CleanCodingInCS.Solution.1.AssemblyInfo.cs
+/Users/vivekanandpv/RiderProjects/CleanCodingInCS.Solution.1/CleanCodingInCS.Solution.1/obj/Debug/netcoreapp3.1/CleanCodingInCS.Solution.1.csproj.CoreCompileInputs.cache
+/Users/vivekanandpv/RiderProjects/CleanCodingInCS.Solution.1/CleanCodingInCS.Solution.1/obj/Debug/netcoreapp3.1/CleanCodingInCS.Solution.1.dll
+/Users/vivekanandpv/RiderProjects/CleanCodingInCS.Solution.1/CleanCodingInCS.Solution.1/obj/Debug/netcoreapp3.1/CleanCodingInCS.Solution.1.pdb
+/Users/vivekanandpv/RiderProjects/CleanCodingInCS.Solution.1/CleanCodingInCS.Solution.1/obj/Debug/netcoreapp3.1/CleanCodingInCS.Solution.1.genruntimeconfig.cache

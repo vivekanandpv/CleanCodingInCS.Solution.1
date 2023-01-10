@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/vivekanandpv/RiderProjects/CleanCodingInCS.Solution.1/CleanCodingInCS.Solution.1/CleanCodingInCS.Solution.1.csproj": {}
+  },
+  "projects": {
+    "/Users/vivekanandpv/RiderProjects/CleanCodingInCS.Solution.1/CleanCodingInCS.Solution.1/CleanCodingInCS.Solution.1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vivekanandpv/RiderProjects/CleanCodingInCS.Solution.1/CleanCodingInCS.Solution.1/CleanCodingInCS.Solution.1.csproj",
+        "projectName": "CleanCodingInCS.Solution.1",
+        "projectPath": "/Users/vivekanandpv/RiderProjects/CleanCodingInCS.Solution.1/CleanCodingInCS.Solution.1/CleanCodingInCS.Solution.1.csproj",
+        "packagesPath": "/Users/vivekanandpv/.nuget/packages/",
+        "outputPath": "/Users/vivekanandpv/RiderProjects/CleanCodingInCS.Solution.1/CleanCodingInCS.Solution.1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/vivekanandpv/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.420/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
